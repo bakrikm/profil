@@ -7,4 +7,6 @@ class WelcomeController < ApplicationController
   end
   def my_fevorite_hobbies
   end
+  def call_me
+  end
 end
